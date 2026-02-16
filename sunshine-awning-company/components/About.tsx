@@ -18,7 +18,7 @@ export const About: React.FC = () => {
                   alt="Beautiful patio cover construction" 
                   className="rounded-2xl shadow-2xl relative z-10 w-full object-cover h-[500px]"
                 />
-                <div className="absolute bottom-10 -left-10 bg-white p-6 rounded-xl shadow-xl z-20 hidden md:block max-w-xs">
+                <div className="absolute -bottom-12 left-8 bg-white p-6 rounded-xl shadow-xl z-20 hidden md:block max-w-xs">
                   <p className="font-serif text-lg text-primary font-bold mb-2">"We Are A Team That Loves to Create."</p>
                   <div className="h-1 w-12 bg-accent rounded-full"></div>
                 </div>
