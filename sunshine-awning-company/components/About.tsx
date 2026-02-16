@@ -10,7 +10,7 @@ export const About: React.FC = () => {
           
           <div className="lg:w-1/2">
             <Reveal>
-              <div className="relative">
+              <div className="relative overflow-visible">
                 <div className="absolute -top-4 -left-4 w-24 h-24 bg-accent/20 rounded-full z-0"></div>
                 <div className="absolute -bottom-4 -right-4 w-32 h-32 bg-primary/10 rounded-full z-0"></div>
                 <img 
