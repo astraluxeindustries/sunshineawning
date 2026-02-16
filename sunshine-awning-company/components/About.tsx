@@ -12,7 +12,6 @@ export const About: React.FC = () => {
             <Reveal>
               <div className="relative overflow-visible">
                 <div className="absolute -top-4 -left-4 w-24 h-24 bg-accent/20 rounded-full z-0"></div>
-                <div className="absolute -bottom-8 left-8 bg-white p-6 rounded-xl shadow-xl z-20 hidden md:block max-w-xs"></div>
                 <img 
                   src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070&auto=format&fit=crop" 
                   alt="Beautiful patio cover construction" 
