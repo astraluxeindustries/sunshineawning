@@ -20,7 +20,6 @@ export const About: React.FC = () => {
                 />
                 <div className="absolute bottom-10 left-10 bg-white p-6 rounded-xl shadow-xl z-20 hidden md:block max-w-xs">
                   <p className="font-serif text-lg text-primary font-bold mb-2">"We Are A Team That Loves to Create."</p>
-                  <div className="h-1 w-12 bg-accent rounded-full"></div>
                 </div>
               </div>
             </Reveal>
